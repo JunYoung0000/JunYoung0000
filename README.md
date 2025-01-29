@@ -82,7 +82,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://jy00-diary.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=orange" />&nbsp
+    <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
   <a href="mailto:define1304@gmail.com">
     <img
